@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/marcin-wosinek/underscore-tree-shaking/issues"
   },
-  "homepage": "https://github.com/marcin-wosinek/underscore-tree-shaking#readme"
+  "homepage": "https://github.com/marcin-wosinek/underscore-tree-shaking#readme",
+  "devDependencies": {
+    "esbuild": "^0.12.20"
+  }
 }
