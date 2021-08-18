@@ -25,6 +25,6 @@
     "webpack-cli": "^4.8.0"
   },
   "dependencies": {
-    "underscore": "^1.13.1"
+    "underscore": "git+https://github.com/marcin-wosinek/underscore.git"
   }
 }
